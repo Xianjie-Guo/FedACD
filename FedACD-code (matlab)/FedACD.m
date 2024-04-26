@@ -3,7 +3,7 @@ function [CausalS, Time] = FedACD(Datasets, Alpha, Mask_rate, D_type)
 % Input:
 % Datasets: a cell array of datasets on all clients. Note that the sample size can be different for each dataset but the feature dimensions must be the same.
 % Alpha: the significant level for conditional independence tests, e.g. 0.01 or 0.05.
-% Mask_rate: The mask rate of the adjacency matrix.
+% Mask_rate: the mask rate of the adjacency matrix.
 % D_type: the type of used datasets. D_type='dis' represents discrete data, and D_type='con' denotes continuous data.
 
 % Output:
