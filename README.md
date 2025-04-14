@@ -1,4 +1,4 @@
-[Sample Quality Heterogeneity-aware Federated Causal Discovery through Adaptive Variable Space Selection](https://xianjie-guo.github.io/EnHome.html) <br>
+[Sample Quality Heterogeneity-aware Federated Causal Discovery through Adaptive Variable Space Selection](https://www.ijcai.org/proceedings/2024/0450.pdf) <br>
 
 # Usage
 "FedACD.m" is main function. <br>
